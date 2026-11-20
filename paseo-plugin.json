@@ -1,0 +1,8 @@
+{
+  "id": "todo-explorer",
+  "name": "Todo Explorer",
+  "description": "Manage tasks in your workspace's todo.md from Explorer.",
+  "requirements": {
+    "paseo": ">=0.15.3"
+  }
+}
