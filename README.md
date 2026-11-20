@@ -18,7 +18,7 @@ A Paseo Explorer panel for the `todo.md` file in each workspace's root.
 Requires Paseo 0.15.3 or later, with plugins enabled on the target daemon.
 
 ```sh
-paseo plugin install git:pfrybar-agent/paseo-todo-plugin
+paseo plugin install git:pfrybar/paseo-todo-plugin
 ```
 
 Open a workspace, then select **Open Todo list** in the Command Center
